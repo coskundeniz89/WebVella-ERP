@@ -28,4 +28,4 @@
 	"ApiUrlTemplates": {
 		"FieldInlineEdit": "/api/v3/en_US/record/{entityName}/{recordId}"
 	}
-}
+}   
